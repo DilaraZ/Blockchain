@@ -1,0 +1,244 @@
+body {
+background-color: #F8F8FC;
+}
+
+#but {
+	color:white;
+	background-color: #4B74FE;
+	border-radius: 100px;
+	width: 150px;
+	height: 50px;
+	margin-left:1300px;
+	margin-top:-240px;
+}
+
+#but2 {
+	color:white;
+	background-color: #4B74FE;
+	border-radius: 100px;
+	width: 150px;
+	height: 50px;
+	margin-left: 1130px;
+	margin-top: -290px;
+}
+
+#baslık{
+	color:#14056b;
+	font-family: 'Mitr', sans-serif;
+	width: 420px;
+	margin-left: 150px;
+	
+}
+
+#paragraf{
+	color:#CDCFDA;
+	margin-left: 100px;
+	margin-top: 30px;
+
+}
+
+#bir{
+	width: 300px;
+	height: 70px;
+	background-color: white;
+	color: #CDCFDA;
+	margin-left: 1100px;
+	margin-top: -200px;
+	border-radius: 5px;
+
+}
+
+#iki{
+	width: 300px;
+	height: 70px;
+	background-color: white;
+	color:#14056b;
+	margin-left: 1100px;
+	margin-top: -70px;
+	border-radius: 5px;
+
+
+}
+
+#üç{
+    width: 300px;
+	height: 70px;
+	background-color: white;
+	color: #CDCFDA;
+	margin-left: 1100px;
+	margin-top: 10px;
+	border-radius: 5px;
+
+
+}
+
+li{
+width: 270px;
+	height: 160px;
+	color:#14056b;
+	background-color: white;
+	margin-left: 60px;
+
+}
+
+li h1 {
+	
+	margin-top: 50px;
+}
+#but3 {
+	color:white;
+	background-color: #4B74FE;
+	border-radius: 100px;
+	width: 270px;
+	height: 70px;
+	margin-left: 160px;
+	margin-top: -80px; 
+}
+
+
+
+
+#display{
+	display: flex;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#sa{
+	color: #CDCFDA;
+	text-align: center;
+}
+
+#sa2{
+	color: #CDCFDA;
+}
+
+#sa3{
+	color: #CDCFDA;
+}
+
+#sa4{
+	color: #CDCFDA;
+}
+
+#baslık2{
+	font-family: 'Mitr', sans-serif;
+	width: 400px;
+	height: 100px;
+	color:#14056b;
+	margin-left: 200px;
+	margin-top: 200px;
+
+}
+
+#paragraf2{
+	color: #CDCFDA;
+	width: 300px;
+	margin-left: 210px;
+	margin-top: 30px;
+
+}
+
+.tablet{
+
+	margin-left: 700px;
+	margin-top: -300px;
+}
+
+#display2 {
+	display: flex;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 140px;
+
+}
+
+#display2 li {
+    
+	width: 300px;
+	height: 400px;
+}
+
+#display2 li p {
+
+	color: #CDCFDA;
+}
+
+.sonbaslık{
+    font-family: 'Mitr', sans-serif;
+    color:#14056b;
+    margin-left: 450px;
+    margin-top: 100px;
+
+}
+
+.sonparagraf{
+	color: #CDCFDA;
+	margin-left: 450px;
+}
+
+
+
+#sonbut {
+	color:white;
+	background-color: #4B74FE;
+	border-radius: 100px;
+	width: 200px;
+	height: 50px;
+	margin-left:480px;
+	margin-top:-240px;
+	margin-top: -350px;
+}
+
+#sonbut2 {
+	color:white;
+	background-color: #4B74FE;
+	border-radius: 100px;
+	width: 200px;
+	height: 50px;
+	margin-left:50px;
+	margin-top:-240px;
+	margin-top: -350px;
+}
+
+
+#logo2 {
+	
+
+
+}
+
+.fontlar{
+	width: 200px;
+	height: 150px;
+	color:#14056b;
+	font-size: 35px;
+		
+
+}
+
+
+.fontlar i {
+	margin-right: 30px;
+}
+
+.row p {
+
+	color: #CDCFDA;
+	margin-top: 30px;
+	width: 120px;
+	height: 120px;	
+}
+
+
+.row{
+ 
+	color:#14056b;
+	font-family: 'Kanit', sans-serif;
+}
+
+.row2 {
+	color: #CDCFDA;
+	margin-left: -300px;
+	margin-top: 250px;
+	}
